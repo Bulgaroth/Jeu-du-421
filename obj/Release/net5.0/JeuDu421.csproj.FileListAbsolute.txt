@@ -1,0 +1,16 @@
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\bin\Release\net5.0\JeuDu421.exe
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\bin\Release\net5.0\JeuDu421.deps.json
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\bin\Release\net5.0\JeuDu421.runtimeconfig.json
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\bin\Release\net5.0\JeuDu421.runtimeconfig.dev.json
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\bin\Release\net5.0\JeuDu421.dll
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\bin\Release\net5.0\ref\JeuDu421.dll
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\bin\Release\net5.0\JeuDu421.pdb
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\obj\Release\net5.0\JeuDu421.csproj.AssemblyReference.cache
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\obj\Release\net5.0\JeuDu421.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\obj\Release\net5.0\JeuDu421.AssemblyInfoInputs.cache
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\obj\Release\net5.0\JeuDu421.AssemblyInfo.cs
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\obj\Release\net5.0\JeuDu421.csproj.CoreCompileInputs.cache
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\obj\Release\net5.0\JeuDu421.dll
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\obj\Release\net5.0\ref\JeuDu421.dll
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\obj\Release\net5.0\JeuDu421.pdb
+D:\Users\artal\source\repos\JeuDu421\JeuDu421\obj\Release\net5.0\JeuDu421.genruntimeconfig.cache
